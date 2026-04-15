@@ -1,0 +1,66 @@
+body {
+    font-family: 'Roboto';
+    margin: 0px;
+}
+
+.titulo1 {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.cuerpo {
+    padding: 15px;
+    background-color: rgb(167, 167, 167);
+}
+
+.titulo2 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.head {
+    border-radius: 6px 6px 0px 0px;
+    width: 480px;
+    height: 20px;
+    background-color: white;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    align-items: flex-start;
+}
+
+.foto {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-bottom: none;
+}
+
+.body img {
+    width: 510px;
+    height: 380px;
+    display: block;
+    
+}
+
+.pie {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-bottom: 45px;
+}
+
+.bottom {
+    justify-content: left;
+    padding: 16px;
+    border: none;
+    background-color: white;
+    border-radius: 0px 0px 6px 6px;
+    width: 480px;
+    height: 20px;
+}
+
+
